@@ -15,15 +15,15 @@
 
 # ## THIS PROGRAM IS FOR  CHECK GRADE 
 # print("%%%%%%%%%%%%%%%%%%%%% program for check your grade%%%%%%%%%%%%%%%%%%%%%%%%%")
-grade = int(input("Enter your grade :"))
-if grade>=90:
-    print("you got A grade");
-elif(grade>=80):
-    print("you got B grade");
-elif(grade>=70):
-    print("you got C grade");
-else:
-    print("you need to study more")
+# grade = int(input("Enter your grade :"))
+# if grade>=90:
+#     print("you got A grade");
+# elif(grade>=80):
+#     print("you got B grade");
+# elif(grade>=70):
+#     print("you got C grade");
+# else:
+#     print("you need to study more")
 
 # ## THIS PROGRAM IS FOR CHECKING YOUR ELIGIBILITY OF DRIVING
 # print("%%%%%%%%%%%%%%%%%%%%% program for check eligible for drive %%%%%%%%%%%%%%%%%%%%%%%%%")
