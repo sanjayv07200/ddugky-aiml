@@ -3,10 +3,9 @@
 # if a>b:
 #     print("a is greater than b ");
 # else:
-    
-#     print("b is greater than a ");
+#      print("b is greater than a ");
 
-# # THIS PROGRAM  FOR CHECKING WETHER THE PERSON ELIGIBLE FOR VOTE OR NOT
+# THIS PROGRAM  FOR CHECKING WETHER THE PERSON ELIGIBLE FOR VOTE OR NOT
 # print("%%%%%%%%%%%%%%%%%%%%% program for check eligible for vote%%%%%%%%%%%%%%%%%%%%%%%%%")
 # age = int (input("Enter your age "));
 # if age>=18:
@@ -16,15 +15,15 @@
 
 # ## THIS PROGRAM IS FOR  CHECK GRADE 
 # print("%%%%%%%%%%%%%%%%%%%%% program for check your grade%%%%%%%%%%%%%%%%%%%%%%%%%")
-# grade = int(input("Enter your grade :"))
-# if grade>=90:
-#     print("you got A grade");
-# elif(grade>=80):
-#     print("you got B grade");
-# elif(grade>=70):
-#     print("you got C grade");
-# else:
-#     print("you need to study more")
+grade = int(input("Enter your grade :"))
+if grade>=90:
+    print("you got A grade");
+elif(grade>=80):
+    print("you got B grade");
+elif(grade>=70):
+    print("you got C grade");
+else:
+    print("you need to study more")
 
 # ## THIS PROGRAM IS FOR CHECKING YOUR ELIGIBILITY OF DRIVING
 # print("%%%%%%%%%%%%%%%%%%%%% program for check eligible for drive %%%%%%%%%%%%%%%%%%%%%%%%%")
@@ -60,5 +59,4 @@
 #       print("it is an even number");
 # else:
 #   print("it is an odd number")  
-
 
